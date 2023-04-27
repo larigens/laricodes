@@ -1,0 +1,19 @@
+.carousel-container {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.carousel-item {
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+textarea {
+  resize: none !important;
+  white-space: pre-wrap !important;
+  /* Any line breaks or multiple spaces that were entered in the textarea will be preserved and displayed */
+}
+
+li {
+  list-style: none !important;
+}

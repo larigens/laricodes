@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+<h1 align="center"> Reactfolio </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img src="./public/apple-touch-icon.png" alt="logo" width="120px" height="120px" />
+  <br><br>
+  <i> Portfolio
+    <br> built using React </i>
+  <br>
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="https://larigens.github.io/reactfolio"><strong>Larissa Guilherme</strong></a>
+</p>
+<br>
+</p>
 
-In the project directory, you can run:
+<div align="center">
 
-### `npm start`
+![Forks](https://img.shields.io/github/forks/larigens/reactfolio?style=flat-square&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/larigens/reactfolio?style=flat-square&color=blueviolet)
+![License](https://img.shields.io/github/license/larigens/reactfolio?style=flat-square&color=blueviolet)
+![Contributors](https://img.shields.io/github/contributors/larigens/reactfolio?style=flat-square&color=blueviolet)
+![Issues](https://img.shields.io/github/issues/larigens/reactfolio?style=flat-square&color=blueviolet)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white&color=blueviolet)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</div>
 
-### `npm test`
+---
+## Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Committed to continuous learning and recently completed a rigorous Full Stack Web Development Bootcamp to gain hands-on experience in HTML, CSS, JavaScript, and other web development technologies. Excited to contribute to dynamic teams, collaborate with colleagues, and deliver high-quality web applications that meet client needs.
 
-### `npm run build`
+This portfolio is a showcase of the skills and abilities.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Table of Contents
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Questions](#questions)
+- [Credits](#credits)
+  - [Acknowledgements](#acknowledgements)
+  - [Links](#links)
+- [License](#license)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Questions
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+For questions and support feel free to contact me via:
 
-### `npm run eject`
+<a href="mailto:larigens@gmail.com">📧 Email </a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<a href="https://github.com/larigens">🐈‍⬛ GitHub </a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Credits
+### Acknowledgements
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Make a README](https://www.makeareadme.com)
+- [W3 Schools](https://www.w3schools.com)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [FrontEnd Trend](https://linktr.ee/frontend_trend)
+- [React Boostrap](https://react-bootstrap.github.io/getting-started/introduction/)
 
-## Learn More
+### Links
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/react-folio/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/coffeebr_eak)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Please refer to the [LICENSE](https://choosealicense.com/licenses/apache-2.0/) in the repo.
