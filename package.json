@@ -2,7 +2,6 @@
   "name": "laricodes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://larigens.github.io/laricodes",
   "dependencies": {
     "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^2.0.17",
