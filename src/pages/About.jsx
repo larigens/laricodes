@@ -5,7 +5,7 @@ export default function About({ showAbout }) {
     return (
         <div className="flex flex-col sm:flex-row gap-x-10">
             <motion.div
-                initial={{ opacity: 0, x: -200 }}
+                initial={{ opacity: 0, x: 200 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{
                     ease: 'easeInOut',
