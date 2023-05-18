@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/laricodes/static/css/main.c939c14a.css",
-    "main.js": "/laricodes/static/js/main.354f109e.js",
+    "main.css": "/laricodes/static/css/main.22511e06.css",
+    "main.js": "/laricodes/static/js/main.6708b432.js",
     "static/media/pawpals.png": "/laricodes/static/media/pawpals.d3ed90dac0a3d78fb57d.png",
     "static/media/voyage.png": "/laricodes/static/media/voyage.d61916f5849d4e70642e.png",
     "static/media/chronos.png": "/laricodes/static/media/chronos.b06eaab4eb6e7c1a40ff.png",
@@ -15,11 +15,11 @@
     "static/media/apollo.svg": "/laricodes/static/media/apollo.332430b02499427fd106c782a184a34f.svg",
     "index.html": "/laricodes/index.html",
     "static/media/workbox.svg": "/laricodes/static/media/workbox.a81bee3839ae909731a5107d5a1ab2c5.svg",
-    "main.c939c14a.css.map": "/laricodes/static/css/main.c939c14a.css.map",
-    "main.354f109e.js.map": "/laricodes/static/js/main.354f109e.js.map"
+    "main.22511e06.css.map": "/laricodes/static/css/main.22511e06.css.map",
+    "main.6708b432.js.map": "/laricodes/static/js/main.6708b432.js.map"
   },
   "entrypoints": [
-    "static/css/main.c939c14a.css",
-    "static/js/main.354f109e.js"
+    "static/css/main.22511e06.css",
+    "static/js/main.6708b432.js"
   ]
 }
