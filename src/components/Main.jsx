@@ -69,7 +69,7 @@ export default function Main() {
                                         }}
                                         className="font-general-medium mt-4 text-base sm:text-md lg:text-lg text-center leading-normal text-gray-500 dark:text-gray-200"
                                     >
-                                        A Software Developer & Back-End Enthusiast
+                                        A Web Developer & Back-End Enthusiast
                                     </motion.p>
                                     <motion.div
                                         initial={{ opacity: 0, x: 200 }}

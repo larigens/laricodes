@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom'; // Assuming you are using React Router
+import { Link } from 'react-router-dom';
 
 export default function About({ showAbout }) {
     return (
@@ -28,7 +28,7 @@ export default function About({ showAbout }) {
                         Larissa Guilherme
                     </h1>
                     <p className="mt-6 text-lg leading-8 text-white">
-                        Software Developer based in Atlanta, GA.
+                        Web Developer based in Roswell, GA.
                     </p>
                     <div className="mt-10 flex items-center justify-center gap-x-6">
                         <Link
@@ -58,7 +58,7 @@ export default function About({ showAbout }) {
             >
                 <div className="p-5">
                     <p className="text-justify text-md my-2">
-                        Software developer with experience in financial services and a background in nutrition. Possessing a strong
+                        Web developer with experience in financial services and a background in nutrition. Possessing a strong
                         affinity for numbers,{' '}
                         <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">
                             programming
@@ -66,11 +66,7 @@ export default function About({ showAbout }) {
                         is where this passion is currently being applied.
                     </p>
                     <p className="text-justify text-md my-2">
-                        Software developer with experience in financial services and a background in nutrition. Possessing a strong
-                        affinity for numbers, <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">programming</span> is where this passion is currently being applied.
-                    </p>
-                    <p className="text-justify text-md my-2">
-                        The interest in coding developed from the desire to create better software for a workplace, as the creators of the existing software were not receptive to feedback.
+                        The interest in coding developed from the desire to create better software for a workplace.
                         After one month of self-teaching, the skills gained led to the pursuit of a professional certificate in the field with the goal of expanding knowledge and turning it into a career.
                         It was a pleasant surprise to fall in love with the world of <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">coding</span>.
                     </p>
@@ -82,11 +78,11 @@ export default function About({ showAbout }) {
                         It's never too late to follow one's dreams, and finding my calling in the world of <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">ones</span> and <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">zeros</span> has been a source of gratitude.
                     </p>
                     <p className="text-justify text-md my-2">
-                        The power of code enables the creation of solutions to real-world problems, and this fuels the desire to continue growing and learning as a software developer.                                    </p>
+                        The power of code enables the creation of solutions to real-world problems, and this fuels the desire to continue growing and learning as a developer.                                    </p>
                     <p className="text-justify text-md my-2">
                         During leisure time, the go-to choices for <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text"> de-stress </span> after hours of <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">de-bugging</span>  are video games and workouts hah.
                     </p>
-                    <p className="font-semibold text-md mt-4 text-center bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">
+                    <p className="text-md mt-4 text-center bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text italic tracking-[2px]">
                         Create. Code. Design. Debug. Play. Workout. Have Fun !important;
                     </p>
                 </div>

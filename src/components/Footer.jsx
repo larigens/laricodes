@@ -10,7 +10,7 @@ export default function Footer() {
                 <div className="flex flex-col md:flex-row items-center md:items-start md:space-x-4 mt-1 md:mt-0">
                     <div className="flex items-center justify-center md:justify-start mt-2 md:mt-0">
                         <FaMapMarkerAlt className="text-ternary-light text-xl sm:text-md md:text-xl mt-2" />
-                        <p className="text-gray-300 ml-2 mt-2">Sandy Springs, GA</p>
+                        <p className="text-gray-300 ml-2 mt-2">Roswell, GA</p>
                     </div>
                     <div className="flex justify-center md:justify-start mt-2">
                         <a href="https://twitter.com/coffeebr_eak" className="ml-4 text-gray-400 hover:text-gray-300">
