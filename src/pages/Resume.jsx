@@ -1,7 +1,7 @@
 import React from 'react';
 import { FiDownload, FiEye } from 'react-icons/fi';
 import { skills } from '../data/skills.jsx';
-import resume from '../assets/cv/Resume.docx';
+import resume from '../assets/cv/Resume.pdf';
 import { motion, useAnimation } from "framer-motion";
 import { useEffect } from "react";
 
