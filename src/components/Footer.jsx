@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaLinkedin, FaMapMarkerAlt, FaFileAlt } from 'react-icons/fa';
-import resume from '../assets/cv/Resume.docx';
+import resume from '../assets/cv/Resume.pdf';
 
 export default function Footer() {
     return (
