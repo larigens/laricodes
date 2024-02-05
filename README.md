@@ -1,4 +1,4 @@
-<h1 align="center"> Reactfolio </h1>
+<h1 align="center"> Larissa Guilherme </h1>
 
 <p align="center">
     <img src="./public/apple-touch-icon.png" alt="logo" width="120px" height="120px" />
@@ -9,18 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://larigens.github.io/reactfolio"><strong>Larissa Guilherme</strong></a>
+  <a href="https://larigens.github.io/laricodes"><strong>Larissa Guilherme</strong></a>
 </p>
 <br>
 </p>
 
 <div align="center">
 
-![Forks](https://img.shields.io/github/forks/larigens/reactfolio?style=flat-square&color=blueviolet)
-![Stars](https://img.shields.io/github/stars/larigens/reactfolio?style=flat-square&color=blueviolet)
-![License](https://img.shields.io/github/license/larigens/reactfolio?style=flat-square&color=blueviolet)
-![Contributors](https://img.shields.io/github/contributors/larigens/reactfolio?style=flat-square&color=blueviolet)
-![Issues](https://img.shields.io/github/issues/larigens/reactfolio?style=flat-square&color=blueviolet)
+![Forks](https://img.shields.io/github/forks/larigens/laricodes?style=flat-square&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/larigens/laricodes?style=flat-square&color=blueviolet)
+![License](https://img.shields.io/github/license/larigens/laricodes?style=flat-square&color=blueviolet)
+![Contributors](https://img.shields.io/github/contributors/larigens/laricodes?style=flat-square&color=blueviolet)
+![Issues](https://img.shields.io/github/issues/larigens/laricodes?style=flat-square&color=blueviolet)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white&color=blueviolet)
 
 
