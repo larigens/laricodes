@@ -5,8 +5,17 @@ import noter from '../assets/images/noter.png';
 import pawpals from '../assets/images/pawpals.png';
 import voyage from '../assets/images/voyage.png';
 import finWiz from '../assets/images/finwiz.png';
+import gsf from '../assets/images/gsf.png';
 
 export const projects = [
+    {
+        title: "G Squared Funding, LLC",
+        description: "Website designed for G Squared Funding, LLC. Serving as a platform to inform visitors about the company's services, which include optimizing cash flow through the acquisition of accounts receivable. It demonstrates their expertise and industry focus while also providing a seamless channel for inquiries, application details, and an array of valuable resources for potential clients.",
+        repository: "https://github.com/larigens/gsf",
+        link: "https://gsquaredfunding.com/",
+        tech: "JavaScript, HTML, CSS, Bootstrap, Joomla",
+        image: gsf
+    },
     {
         title: "FinWiz",
         description: "Factoring software designed to simplify the management of accounts receivables and payables.",
