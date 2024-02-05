@@ -57,33 +57,42 @@ export default function About({ showAbout }) {
                 className="flex-grow rounded-2xl bg-gradient-to-b from-primary-dark to-gray-800 shadow-2xl text-primary-light"
             >
                 <div className="p-5">
-                    <p className="text-justify text-md my-2">
-                        Web developer with experience in financial services and a background in nutrition. Possessing a strong
-                        affinity for numbers,{' '}
-                        <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">
-                            programming
-                        </span>{' '}
-                        is where this passion is currently being applied.
+                    <h3 className="text-center text-2xl sm:text-4xl font-bold my-3 text-secondary-light">
+                        I'm a dynamic professional with a unique blend of expertise.
+                    </h3>
+                    <p className="text-justify text-md mt-4">
+                        My coding journey began with a profound passion for problem-solving and a love for creating meaningful solutions.
+                        It all started when I noticed a critical need at my current workplace. As a small company without an IT department, there was no avenue to share my ideas for enhancing our website.
+                        Our website was in dire need of improvement to attract more clients and drive business growth. I firmly believed that by enhancing both the design and functionality of our website, we could make a substantial difference in our company's success.
+                        This realization ignited my determination to embark on a coding adventure, seeking to equip myself with the skills necessary to bring these improvements to life.
+                    </p>
+                    <p className="my-3 p-4 text-lg text-right text-secondary-light font-bold">If you desire change, you have two options:
+                        <span className="font-normal"> pursue the individuals capable of effecting it or acquire the necessary tools to instigate the change independently.</span>
                     </p>
                     <p className="text-justify text-md my-2">
-                        The interest in coding developed from the desire to create better software for a workplace.
-                        After one month of self-teaching, the skills gained led to the pursuit of a professional certificate in the field with the goal of expanding knowledge and turning it into a career.
-                        It was a pleasant surprise to fall in love with the world of <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">coding</span>.
+                        Initially, I attempted to teach myself coding, but the sheer variety of languages, frameworks, and tools left me feeling overwhelmed.
+                        A friend introduced me to HTML and CSS, but due to our schedule constraints, I decided to enroll in a coding bootcamp for more structured guidance.
+                        From the very beginning, I was captivated by the world of coding, and each moment of learning felt like an exciting journey.
+                    </p>
+                    <p className="text-left text-lg sm:text-xl font-bold my-3 p-4 text-indigo-500">
+                        What started as an experiment quickly became a passion.
                     </p>
                     <p className="text-justify text-md my-2">
-                        At present, work is focused on developing the financial software that led to this career transition, with excitement for what the outcome will be.
-                        Although making apps aesthetically pleasing is enjoyable, the true passion lies in <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">back-end development. </span>                                   </p>
-                    <p className="text-justify text-md my-2">
-                        The next professional step is to learn Flutter and Dart, with a focus on mobile app development.
-                        It's never too late to follow one's dreams, and finding my calling in the world of <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">ones</span> and <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">zeros</span> has been a source of gratitude.
+                        In just one month, I was completely hooked.
+                        This prompted me to pursue a professional certificate in the field, driven by the desire to expand my knowledge and transform my passion into a fulfilling career.
                     </p>
                     <p className="text-justify text-md my-2">
-                        The power of code enables the creation of solutions to real-world problems, and this fuels the desire to continue growing and learning as a developer.                                    </p>
+                        Currently, I'm dedicated to enhancing our company's website, the very project that ignited my career transition.
+                        Looking forward, my next professional step involves diving into the realm of mobile app development.</p>
+
+                    <p className="my-3 p-4 text-lg text-right text-secondary-light font-bold">
+                        I firmly believe that it's never too late to chase one's dreams. </p>
                     <p className="text-justify text-md my-2">
-                        During leisure time, the go-to choices for <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text"> de-stress </span> after hours of <span className="bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text">de-bugging</span>  are video games and workouts hah.
-                    </p>
-                    <p className="text-md mt-4 text-center bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text italic tracking-[2px]">
-                        Create. Code. Design. Debug. Play. Workout. Have Fun !important;
+                        The power of code inspires me, as it empowers us to create solutions for real-world problems. This fuels my determination to keep growing and learning as a developer.</p>
+                    <p className="text-justify text-md my-4">
+                        Thank you for visiting my portfolio, and I'm excited about the opportunity to connect with you and explore new horizons in the ever-evolving world of technology.</p>
+                    <p className="text-2xl p-5 mt-5 text-center bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text italic tracking-[2px]">
+                        Create. Code. Design. Debug. Have Fun !important;
                     </p>
                 </div>
             </motion.div>

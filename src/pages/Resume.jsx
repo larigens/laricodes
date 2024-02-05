@@ -55,7 +55,7 @@ export default function Resume() {
         <a href={resume} download className="mx-8 rounded-md bg-indigo-600 px-6 py-2.5 flex items-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
           <FiDownload className="text-lg mr-2" /> Resume
         </a>
-        <a href="https://docs.google.com/document/d/1eTtWJtVafi6zOJ9i6z0DhTmLHE8rKlpI" target="_blank" rel="noreferrer" className="mx-8 rounded-md bg-indigo-600 px-6 py-2.5 flex items-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+        <a href="https://docs.google.com/document/d/1JZMl4FjfVmC8TvVxRHcwEMq5kz23--5WvYn8jEqqpb8/edit?usp=sharing" target="_blank" rel="noreferrer" className="mx-8 rounded-md bg-indigo-600 px-6 py-2.5 flex items-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
           <FiEye className="text-lg mr-2" /> Preview
         </a>
       </div>
