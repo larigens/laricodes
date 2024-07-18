@@ -58,37 +58,34 @@ export default function About({ showAbout }) {
             >
                 <div className="p-5">
                     <h3 className="text-center text-2xl sm:text-4xl font-bold my-3 text-secondary-light">
-                        I'm a dynamic professional with a unique blend of expertise.
+                        Hello World,
                     </h3>
                     <p className="text-justify text-md mt-4">
-                        My coding journey began with a profound passion for problem-solving and a love for creating meaningful solutions.
-                        It all started when I noticed a critical need at my current workplace. As a small company without an IT department, there was no avenue to share my ideas for enhancing our website.
-                        Our website was in dire need of improvement to attract more clients and drive business growth. I firmly believed that by enhancing both the design and functionality of our website, we could make a substantial difference in our company's success.
-                        This realization ignited my determination to embark on a coding adventure, seeking to equip myself with the skills necessary to bring these improvements to life.
+                        I'm Larissa Guilherme, a passionate and dedicated Frontend Software Engineer based in Roswell, Georgia.
                     </p>
-                    <p className="my-3 p-4 text-lg text-right text-secondary-light font-bold">If you desire change, you have two options:
-                        <span className="font-normal"> pursue the individuals capable of effecting it or acquire the necessary tools to instigate the change independently.</span>
+                    <p className="my-3 p-4 text-lg text-right text-secondary-light">With a Full Stack Web Development certification from Georgia Tech,
+                        <span className="font-normal"> I've been on a mission to make the web a better (and more fun) place since 2022.</span>
                     </p>
                     <p className="text-justify text-md my-2">
-                        Initially, I attempted to teach myself coding, but the sheer variety of languages, frameworks, and tools left me feeling overwhelmed.
-                        A friend introduced me to HTML and CSS, but due to our schedule constraints, I decided to enroll in a coding bootcamp for more structured guidance.
-                        From the very beginning, I was captivated by the world of coding, and each moment of learning felt like an exciting journey.
+                        By day, I’m a CSR Analyst and Underwriter at G Squared Funding, LLC, where I’ve developed our load board app and given our website a full makeover—all while juggling my other responsibilities. Our company doesn't have an IT department, so I took on both projects from mock-up to completion all by myself. Some might call it crazy, but I love coding, and these projects were just fun side gigs.
                     </p>
-                    <p className="text-left text-lg sm:text-xl font-bold my-3 p-4 text-indigo-500">
-                        What started as an experiment quickly became a passion.
+                    <p className="my-3 p-4 text-lg text-right text-secondary-light">
+                        It’s definitely challenging to switch between such different roles during my 8 work hours, and it makes me wonder how much more I could accomplish if I could focus solely on coding 40 hours a week.
                     </p>
                     <p className="text-justify text-md my-2">
-                        In just one month, I was completely hooked.
-                        This prompted me to pursue a professional certificate in the field, driven by the desire to expand my knowledge and transform my passion into a fulfilling career.
+                        By night, you may find me experimenting with JavaScript and React, crafting quirky web projects that blend creativity and functionality. Or maybe just doing some puzzles, playing Wordle, being extra competitive on Stop, or watching a random documentary about space or anything related to science. Yeah, I'm a big nerd. But what can I do? I just love learning new stuff 🤓
                     </p>
                     <p className="text-justify text-md my-2">
-                        Currently, I'm dedicated to enhancing our company's website, the very project that ignited my career transition.
-                        Looking forward, my next professional step involves diving into the realm of mobile app development.</p>
-
-                    <p className="my-3 p-4 text-lg text-right text-secondary-light font-bold">
-                        I firmly believe that it's never too late to chase one's dreams. </p>
-                    <p className="text-justify text-md my-2">
-                        The power of code inspires me, as it empowers us to create solutions for real-world problems. This fuels my determination to keep growing and learning as a developer.</p>
+                        I’m not just about coding, though. I hold a Bachelor of Science in Clinical Nutrition, proving I can not only debug your app but also suggest a healthy snack while doing it! Or I might invite you to go for a run —I’m an ex-sedentary person preparing to run a half-marathon. Oh, and I’m also a Certified Associate in Project Management (CAPM)®, which brings a touch of order to the world of development.
+                    </p>
+                    <p className="my-3 p-4 text-lg text-left text-secondary-light">
+                        Collaboration is my jam. I love bouncing ideas off fellow tech and non-tech enthusiasts and turning wild ideas into polished products. Recognized for my top-notch performance and innovative solutions, I’m ready to dive into new challenges with a smile and a keyboard at the ready.                    </p>
+                    <p className="text-right text-lg sm:text-xl mt-3 mb-0 px-4 py-1 text-indigo-500">
+                        Ready to create something awesome together?
+                    </p>
+                    <p className="mt-0 mb-3 px-4 pt-0 pb-4 text-lg text-right text-secondary-light">
+                        Let’s &#123;code&#125;, &lt;Laugh /&gt;, and make magic (!not-happen)
+                    </p>
                     <p className="text-justify text-md my-4">
                         Thank you for visiting my portfolio, and I'm excited about the opportunity to connect with you and explore new horizons in the ever-evolving world of technology.</p>
                     <p className="text-2xl p-5 mt-5 text-center bg-gradient-to-r from-secondary-dark to-ternary-dark text-transparent bg-clip-text italic tracking-[2px]">
