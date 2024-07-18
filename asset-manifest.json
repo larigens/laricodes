@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/laricodes/static/css/main.00729933.css",
-    "main.js": "/laricodes/static/js/main.54f8a556.js",
+    "main.js": "/laricodes/static/js/main.673122af.js",
     "static/media/pawpals.png": "/laricodes/static/media/pawpals.d3ed90dac0a3d78fb57d.png",
     "static/media/voyage.png": "/laricodes/static/media/voyage.d61916f5849d4e70642e.png",
     "static/media/chronos.png": "/laricodes/static/media/chronos.b06eaab4eb6e7c1a40ff.png",
@@ -11,17 +11,17 @@
     "static/media/bugs-diaries.png": "/laricodes/static/media/bugs-diaries.a14bd75c34acbcf73103.png",
     "static/media/avatar.png": "/laricodes/static/media/avatar.23e03b7bdec61d42a395.png",
     "static/media/noter.png": "/laricodes/static/media/noter.730e126f0bb719ac3e9f.png",
-    "static/media/Resume.pdf": "/laricodes/static/media/Resume.04f1cfd8c5c7a73417a9.pdf",
     "static/media/card.png": "/laricodes/static/media/card.e29390369b3c5317f183.png",
+    "static/media/Resume.pdf": "/laricodes/static/media/Resume.3f338b21e638ec88365b.pdf",
     "static/media/logo.png": "/laricodes/static/media/logo.5246f8a788eeb465a8e4.png",
     "static/media/apollo.svg": "/laricodes/static/media/apollo.332430b02499427fd106c782a184a34f.svg",
     "index.html": "/laricodes/index.html",
     "static/media/workbox.svg": "/laricodes/static/media/workbox.a81bee3839ae909731a5107d5a1ab2c5.svg",
     "main.00729933.css.map": "/laricodes/static/css/main.00729933.css.map",
-    "main.54f8a556.js.map": "/laricodes/static/js/main.54f8a556.js.map"
+    "main.673122af.js.map": "/laricodes/static/js/main.673122af.js.map"
   },
   "entrypoints": [
     "static/css/main.00729933.css",
-    "static/js/main.54f8a556.js"
+    "static/js/main.673122af.js"
   ]
 }
