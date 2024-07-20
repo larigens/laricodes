@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/laricodes/static/css/main.1ae5bf36.css",
-    "main.js": "/laricodes/static/js/main.adcee70d.js",
+    "main.js": "/laricodes/static/js/main.b22f3dc0.js",
     "static/media/pawpals.png": "/laricodes/static/media/pawpals.d3ed90dac0a3d78fb57d.png",
     "static/media/voyage.png": "/laricodes/static/media/voyage.d61916f5849d4e70642e.png",
     "static/media/chronos.png": "/laricodes/static/media/chronos.b06eaab4eb6e7c1a40ff.png",
@@ -18,10 +18,10 @@
     "index.html": "/laricodes/index.html",
     "static/media/workbox.svg": "/laricodes/static/media/workbox.a81bee3839ae909731a5107d5a1ab2c5.svg",
     "main.1ae5bf36.css.map": "/laricodes/static/css/main.1ae5bf36.css.map",
-    "main.adcee70d.js.map": "/laricodes/static/js/main.adcee70d.js.map"
+    "main.b22f3dc0.js.map": "/laricodes/static/js/main.b22f3dc0.js.map"
   },
   "entrypoints": [
     "static/css/main.1ae5bf36.css",
-    "static/js/main.adcee70d.js"
+    "static/js/main.b22f3dc0.js"
   ]
 }
