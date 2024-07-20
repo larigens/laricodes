@@ -84,7 +84,7 @@ export default function About({ showAbout }) {
                         Ready to create something awesome together?
                     </p>
                     <p className="mt-0 mb-3 px-4 pt-0 pb-4 text-lg text-right text-secondary-light">
-                        Let’s &#123;code&#125;, &lt;Laugh /&gt;, and make magic (!not-happen)
+                        Let’s &#123;code&#125;, &lt;Laugh /&gt;, and make magic (!not-happen)!
                     </p>
                     <p className="text-justify text-md my-4">
                         Thank you for visiting my portfolio, and I'm excited about the opportunity to connect with you and explore new horizons in the ever-evolving world of technology.</p>
